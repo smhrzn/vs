@@ -1,11 +1,3 @@
-# print("Hello World")
-
-#sum
-# n1=int(input("Enter a number:"))
-# n2=int(input("Enter a number:"))
-# sum=n1+n2
-# print(sum)
-
 #simmple calaulator:
 # def add(x, y):
 #     return x + y
@@ -55,6 +47,8 @@
 #           break
 #     else:
 #         print("Invalid Input")
+
+
 
 #rock paper scissor
 import random
